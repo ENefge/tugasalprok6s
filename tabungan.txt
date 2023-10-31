@@ -1,0 +1,2 @@
+50,000,Tabungan
+50000,Tabungan
